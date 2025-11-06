@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Anúncios para Google Shopping",
+  "description": "Otimize feeds de produtos para anúncios no Google Shopping, com descrições, imagens e categorias padronizadas. Inclui validação automática de conformidade com políticas do Google.",
+  "requestFramePermissions": []
+}
